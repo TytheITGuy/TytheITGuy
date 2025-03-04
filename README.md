@@ -4,8 +4,8 @@
 
 
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/TytheITGuy/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/TytheITGuy/azure-network-protocols)
+  - [Network Traffic Monitoring within Azure VMs](https://github.com/TytheITGuy/network-traffic-monitoring)
+  - [Setting Up a VPN](https://github.com/TytheITGuy/setting-up-a-vpn)
 
 - <b>Active Directory</b>
   - [Active Directory: Preparing Infrastructure In Azure](https://github.com/TytheITGuy/infrastructure-in-azure)
