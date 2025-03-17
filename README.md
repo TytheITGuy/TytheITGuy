@@ -9,7 +9,7 @@
 - <b>Active Directory</b>
   - [Active Directory: Preparing Infrastructure In Azure](https://github.com/TytheITGuy/infrastructure-in-azure)
   - [Active Directory: Deploying Active Directory In Azure](https://github.com/TytheITGuy/deploying-active-directory)
-  - [Active Directory: Creating Users, Group Policy, Managing Accounts In Azure ](https://github.com/TytheITGuy/creating-users,group-policy,managing-accounts-in-azure)
+  - [Active Directory: Creating Users, Group Policy, Managing Accounts In Azure ](https://github.com/TytheITGuy/creating-users-group-policy-managing-accounts-in-azure)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/TytheITGuy/osticket-prereqs)
