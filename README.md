@@ -3,8 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 
-- <b>Microsoft Azure</b>
-  - [Network Traffic Monitoring within Azure VMs](https://github.com/TytheITGuy/network-traffic-monitoring)
+- <b>VPNs</b>
   - [Setting Up a VPN](https://github.com/TytheITGuy/setting-up-a-vpn)
 
 - <b>Active Directory</b>
